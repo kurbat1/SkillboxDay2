@@ -10,7 +10,10 @@ public class Main {
     public static void main(String[] args) {
 //	MyThread thread1 = new MyThread(5);
 //		thread1.start();
-//
+//  look here!
+//         private static void printProgress(long uploaded, long size) {
+//        System.out.printf("Uploaded %12d / %12d bytes (%5.2f%%)\n", uploaded, size, 100 * (uploaded / (double) size));
+//    }
 //    MyThread thread2 = new MyThread(1);
 //        thread2.start();
         String ACCESS_TOKEN = "hFzCrE-Vr48AAAAAAAAAFi02rapWMzYlzhXU_TEen7Ton_SZe84uPG_sMjz6iseL";
